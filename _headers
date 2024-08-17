@@ -1,0 +1,4 @@
+https://shreyanskhobare.com/*
+	Strict-Transport-Security: max-age=31536000; includeSubDomains
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
