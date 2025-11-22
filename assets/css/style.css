@@ -852,4 +852,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+.justify-text {
+    text-align: justify;
+}
+.justify-text::after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+}
 /*========================Thank you=================
