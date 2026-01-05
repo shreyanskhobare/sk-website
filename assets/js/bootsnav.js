@@ -594,7 +594,5 @@
         $(".navbar-collapse").removeClass("bounceIn");      
     });
     
-    alert("Hello from bootsnav.js");
-
 }(jQuery));
 
